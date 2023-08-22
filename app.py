@@ -31,7 +31,7 @@ st.sidebar.image("muet.png", width=190)
 
 # Feel free to start asking your questions, and let muetGPT provide you with prompt and reliable answers. Welcome to the future of information access at MUET with muetGPT!
 with st.sidebar:
-    st.markdown("# Welcome to MuetGPT")
+    st.markdown("# Welcome to MuetGPT", "beta")
     st.markdown(
         "Your virtual assistant for all things related to Mehran University of Engineering and Technology (MUET), Jamshoro. Powered by OpenAI's cutting-edge technology, muetGPT is here to answer all your queries about MUET."
         )
