@@ -43,7 +43,7 @@ with st.sidebar:
     st.markdown("""[![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/safiullahrahu/)
                    [![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/munsifraza/)""")
     st.markdown("""[![Follow](https://img.shields.io/twitter/follow/safiullah_rahu?style=social)](https://www.twitter.com/safiullah_rahu)""")
-    st.markdown("""<i>MuetGPT is in beta version!""")
+    st.markdown("""*MuetGPT is in beta version!*""")
   
 # Getting the OpenAI API key from Streamlit Secrets
 openai_api_key = st.secrets.secrets.OPENAI_API_KEY
