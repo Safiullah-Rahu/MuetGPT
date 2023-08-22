@@ -120,7 +120,7 @@ def conversational_chat(query):
     question_generator = LLMChain(llm=llm, prompt=condense_question_prompt_template, memory=memory, verbose=True)
     doc_chain = load_qa_chain(llm, chain_type="stuff", prompt=qa_prompt, verbose=True)
     agent = ConversationalRetrievalChain(
-        retriever=db.as_retriever(search_kwargs={'k': 2}),
+        retriever=db.as_retriever(search_kwargs={'k': 6}),
         question_generator=question_generator,
         combine_docs_chain=doc_chain,
         memory=memory,
