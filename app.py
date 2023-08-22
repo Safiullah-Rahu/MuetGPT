@@ -31,9 +31,7 @@ st.sidebar.image("muet.png", width=190)
 
 # Feel free to start asking your questions, and let muetGPT provide you with prompt and reliable answers. Welcome to the future of information access at MUET with muetGPT!
 with st.sidebar:
-    c1, c2 = st.columns([1,1])
-    c1.markdown("""# Welcome to MuetGPT""")
-    c2.write("beta")
+    st.markdown("""# Welcome to MuetGPT""")
     st.markdown(
         "Your virtual assistant for all things related to Mehran University of Engineering and Technology (MUET), Jamshoro. Powered by OpenAI's cutting-edge technology, muetGPT is here to answer all your queries about MUET."
         )
@@ -45,6 +43,7 @@ with st.sidebar:
     st.markdown("""[![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/safiullahrahu/)
                    [![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/munsifraza/)""")
     st.markdown("""[![Follow](https://img.shields.io/twitter/follow/safiullah_rahu?style=social)](https://www.twitter.com/safiullah_rahu)""")
+    st.markdown("""<i>MuetGPT is in beta version!""")
   
 # Getting the OpenAI API key from Streamlit Secrets
 openai_api_key = st.secrets.secrets.OPENAI_API_KEY
