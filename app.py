@@ -22,16 +22,7 @@ st.set_page_config(
 )
 
 st.sidebar.image("muet.png", width=190)
-# st.sidebar.title("MUET GPT")
-# st.sidebar.write()
-# with st.sidebar.expander(label="About"):
-#     st.markdown(
-#         """
-#         This component is a combination of `st.echo` and `st.expander`.
-#         The code inside the `with echo_expander()` block will be executed,
-#         and the code can be shown/hidden behind an expander
-#         """
-#     )
+
 # Welcome to muetGPT, your virtual assistant for all things related to Mehran University of Engineering and Technology (MUET), Jamshoro. Powered by OpenAI's cutting-edge technology, muetGPT is here to answer all your queries about MUET.
 
 # At MUET, we understand that you may have questions about various aspects of university life, courses, programs, events, facilities, and more. With muetGPT, you can ask any question you have, and our AI-powered assistant will provide you with accurate and helpful information.
@@ -52,7 +43,6 @@ with st.sidebar:
     st.markdown("""[![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/safiullahrahu/)
                    [![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/munsifraza/)""")
     st.markdown("""[![Follow](https://img.shields.io/twitter/follow/safiullah_rahu?style=social)](https://www.twitter.com/safiullah_rahu)""")
-    st.markdown("""[![Follow](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Safiullah-Rahu)""")
   
 # Getting the OpenAI API key from Streamlit Secrets
 openai_api_key = st.secrets.secrets.OPENAI_API_KEY
@@ -68,7 +58,7 @@ pinecone.init(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
 
 
 embeddings = OpenAIEmbeddings()
-model_name = "gpt-3.5-turbo"
+model_name = "gpt-3.5-turbo-16k"
 text_field = "text"
 
 @st.cache_resource
