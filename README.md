@@ -34,7 +34,7 @@ streamlit run app.py
 This command will launch the MuetGPT app in your default web browser. 
 5. Interact with MuetGPT by typing your queries and receiving instant responses related to MUET.
 
-<img src="CSV_AI.PNG" alt="App Homepage">
+<img src="muetgpt.jpg" alt="App Homepage">
 
 ## Contributions and Improvements
 MuetGPT is an open-source project, and contributions are welcome! If you'd like to add new features, improve the chatbot's responses, or enhance the user experience, feel free to submit pull requests.
@@ -43,4 +43,10 @@ MuetGPT is an open-source project, and contributions are welcome! If you'd like 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+## **A project by Safiullah Rahu & Munsif Raza**
+[![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/safiullahrahu/)
+[![Follow](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/munsifraza/)
+[![Follow](https://img.shields.io/twitter/follow/safiullah_rahu?style=social)](https://www.twitter.com/safiullah_rahu)
+[![Follow](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Safiullah-Rahu)
+
 Feel free to use, modify, and share MuetGPT to enhance the accessibility of MUET-related information. If you have any questions or suggestions, please feel free to reach out to us. Happy querying with MuetGPT!
