@@ -4,7 +4,7 @@ MuetGPT is an AI-powered chatbot designed to provide accurate and prompt respons
 
 ## Features
 
-CSV-AI offers the following key features:
+MuetGPT offers the following key features:
 
 - **Instant Responses:** MuetGPT leverages the power of OpenAI's model to provide quick and accurate answers to your questions about MUET.
 - **Wide Range of Queries:** Whether you're a student, faculty member, prospective student, or anyone curious about MUET, MuetGPT can help answer various queries, including information about courses, programs, admissions, events, facilities, and more.
