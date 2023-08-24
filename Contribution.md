@@ -39,14 +39,14 @@ Contributions to MuetGPT can come in various forms:
 ## Submitting a Pull Request
 
 1. Create a new branch from the main branch:
-   '''bash
-   git checkout -b your-feature-branch
-2. Make your changes, following the code style and conventions.
-3. Commit your changes with a clear and descriptive commit message:
+   ```bash
+  git checkout -b your-feature-branch
+3. Make your changes, following the code style and conventions.
+4. Commit your changes with a clear and descriptive commit message:
    '''bash
    git commit -m "Add feature XYZ"
-4. Push your branch to your GitHub repository:
+5. Push your branch to your GitHub repository:
   '''bash
   git push origin your-feature-branch
-5. Open a pull request on GitHub, providing a clear description of your changes and linking to any relevant issues.
-6. Your pull request will be reviewed by project maintainers. Be prepared to address any feedback or make necessary changes.
+6. Open a pull request on GitHub, providing a clear description of your changes and linking to any relevant issues.
+7. Your pull request will be reviewed by project maintainers. Be prepared to address any feedback or make necessary changes.
