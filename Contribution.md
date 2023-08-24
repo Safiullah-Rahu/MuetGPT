@@ -40,7 +40,7 @@ Contributions to MuetGPT can come in various forms:
 
 1. Create a new branch from the main branch:
    ```bash
-  git checkout -b your-feature-branch
+  git checkout -b your-feature-branch'''
 3. Make your changes, following the code style and conventions.
 4. Commit your changes with a clear and descriptive commit message:
    '''bash
