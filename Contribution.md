@@ -12,7 +12,6 @@ Before you start contributing, please take a moment to read and understand our g
 4. [Submitting a Pull Request](#submitting-a-pull-request)
 5. [Reporting Issues](#reporting-issues)
 6. [Community and Communication](#community-and-communication)
-7. [License](#license)
 
 ## Getting Started
 
