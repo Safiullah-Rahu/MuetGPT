@@ -67,6 +67,6 @@ Contributions to MuetGPT can come in various forms:
 
 ## Community and Communication
 
-- Join our [community discussions](link-to-discussions) to engage with other contributors and users.
+- Join our [community discussions](https://github.com/Munsif-Raza-T/MuetGPT/discussions/1) to engage with other contributors and users.
 - Follow us on LinkedIn [Munsif Raza](https://www.linkedin.com/in/munsifraza/), [Safiullah Rahu](https://www.linkedin.com/in/safiullahrahu/) and Twitter [Munsif Raza](https://twitter.com/Munsif_Razaa), [Safiullah Rahu](https://twitter.com/safiullah_rahu) for project updates and announcements.
 
