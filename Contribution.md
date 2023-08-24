@@ -59,3 +59,15 @@ Contributions to MuetGPT can come in various forms:
 5. Open a pull request on GitHub, providing a clear description of your changes and linking to any relevant issues.
    
 6. Your pull request will be reviewed by project maintainers. Be prepared to address any feedback or make necessary changes.
+
+## Reporting Issues
+
+- Use the GitHub issue tracker to report bugs, suggest enhancements, or ask questions.
+- Before creating a new issue, please search for existing issues to avoid duplicates.
+- Provide detailed information about the issue you're facing, including steps to reproduce it.
+
+## Community and Communication
+
+- Join our [community discussions](link-to-discussions) to engage with other contributors and users.
+- Follow us on LinkedIn [Munsif Raza](https://www.linkedin.com/in/munsifraza/), [Safiullah Rahu](https://www.linkedin.com/in/safiullahrahu/) and Twitter [Munsif Raza](https://twitter.com/Munsif_Razaa), [Safiullah Rahu](https://twitter.com/safiullah_rahu) for project updates and announcements.
+
